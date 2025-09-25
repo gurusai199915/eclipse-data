@@ -1,7 +1,8 @@
+package day1;
 public class Thirdclass
 {
  public static void main(String[]args)
   {
-    system.out.println("i love india");
+    System.out.println("i love india");
   }
 }
