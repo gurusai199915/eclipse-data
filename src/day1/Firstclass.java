@@ -8,6 +8,10 @@ System.out.println("hello india");
 System.out.println("welcome to  hyderabad");
 System.out.println("reshma is a good girl");
 System.out.println("osman is a good boy");
+System.out.println("iam proud to say iam indian");
+System.out.println("iam proud to say iam indian");
+System.out.println("hi bava");
+
 
 
 }
